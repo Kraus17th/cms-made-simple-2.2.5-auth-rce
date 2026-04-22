@@ -2,8 +2,6 @@
 
 **CVE-2018-1000094** | Python 3 | Authenticated File Upload → Webshell
 
-> made for OSCP lab
-
 ## Usage
 
 **Edit variables at top:**
