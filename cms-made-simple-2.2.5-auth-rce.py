@@ -2,7 +2,7 @@ import requests
 import base64
 import re
 
-base_url = "https://192.168.239.45/admin"
+base_url = "https://target/admin"
 upload_dir = "/uploads"
 upload_url = base_url.split('/admin')[0] + upload_dir
 username = "admin"
